@@ -1,3 +1,3 @@
 # All-about-python
 
-This repository consists of basics of Python.
+This repository consists of basics and DSA in Python.
